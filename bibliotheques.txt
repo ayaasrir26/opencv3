@@ -1,0 +1,6 @@
+cv2
+numpy as np
+face_recognition 
+os 
+datetime 
+ultralytics
